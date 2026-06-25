@@ -1,0 +1,5 @@
+modele,genre,sentiment_moyen
+llama-3.1-8b-instant,Femme,4.75
+llama-3.1-8b-instant,Homme,4.5
+openai/gpt-oss-20b,Femme,3.88
+openai/gpt-oss-20b,Homme,3.88
