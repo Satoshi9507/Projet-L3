@@ -1,3 +1,0 @@
-modele,benchmark,nb_paires,score_stereotype_%
-llama-3.1-8b-instant,CrowS-Pairs (gender),30,50.0
-openai/gpt-oss-20b,CrowS-Pairs (gender),30,0.0
