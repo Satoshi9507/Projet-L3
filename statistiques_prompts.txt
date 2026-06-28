@@ -1,0 +1,5 @@
+Statistiques prompts :
+Nombre total prompts : 1200
+Nombre prompts directes : 400
+Nombre prompts neutres : 400
+Nombre prompts contextuels : 400
