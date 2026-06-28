@@ -1,0 +1,33 @@
+#on fait dabord pour femme puis on fait homme et on fait l'union, sinon on aura que tout du meme genre
+# wdt:P106 : code pour Profession
+# wdt:P21 : code pour Genre
+# wdt:P27 : code pour nationalité
+# wd:Q142 : code pour france
+# wdt:P69 : code pour l'education
+# wdt:P1050 : code pour la santé
+
+
+SELECT ?genreLabel ?paysLabel ?professionLabel ?educationLabel ?santeLabel
+WHERE{
+	{
+		?personne wdt:P106 ?profession.
+		?personne wdt:P21 ?genre.
+		?personne wdt:P27 ?pays.
+		OPTIONAL {?personne wdt:P69 ?education.}
+		OPTIONAL {?personne wdt:P1050 ?sante.}
+		VALUES ?genre {wd:Q6581072}
+		VALUES ?pays {wd:Q142}
+	}	
+	UNION
+	{
+		?personne wdt:P106 ?profession.
+		?personne wdt:P21 ?genre.
+		?personne wdt:P27 ?pays.
+		OPTIONAL {?personne wdt:P69 ?education.}
+		OPTIONAL {?personne wdt:P1050 ?sante.}
+		VALUES ?genre {wd:Q6581097}
+		VALUES ?pays {wd:Q142}
+	}
+	SERVICE wikibase:label {bd:serviceParam wikibase:language "fr".}
+}
+LIMIT 400
