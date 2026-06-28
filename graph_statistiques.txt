@@ -1,0 +1,15 @@
+Statiques du graphe :
+
+Nombre de triplets / Relations : 2000
+
+Nombre de personnes différentes : 400
+
+Genres : 
+  - masculin : 222
+  - féminin : 178
+
+Metiers : 
+  - Counter() : 222
+  - Counter() : 178
+
+Nombre de cellule non renseignées : 509
