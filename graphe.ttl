@@ -1,0 +1,2401 @@
+
+<personne1> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "poète ou poétesse" .
+
+<personne10> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "nouvelliste" .
+
+<personne100> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "salonnier ou salonnière" .
+
+<personne101> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "mannequin" .
+
+<personne102> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "romancier ou romancière" .
+
+<personne103> <education> "université de Göttingen" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "physicien ou physicienne" .
+
+<personne104> <education> "université de Göttingen" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "mathématicien ou mathématicienne" .
+
+<personne105> <education> "université de Göttingen" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "philosophe" .
+
+<personne106> <education> "université de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "physicien ou physicienne" .
+
+<personne107> <education> "université de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "chimiste" .
+
+<personne108> <education> "université de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "professeur d'université" .
+
+<personne109> <education> "université volante" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "physicien ou physicienne" .
+
+<personne11> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "artiste d'enregistrement" .
+
+<personne110> <education> "université volante" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "chimiste" .
+
+<personne111> <education> "université volante" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "professeur d'université" .
+
+<personne112> <education> "faculté des sciences de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "physicien ou physicienne" .
+
+<personne113> <education> "faculté des sciences de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "chimiste" .
+
+<personne114> <education> "faculté des sciences de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "professeur d'université" .
+
+<personne115> <education> "Q9383191" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "physicien ou physicienne" .
+
+<personne116> <education> "Q9383191" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "chimiste" .
+
+<personne117> <education> "Q9383191" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "professeur d'université" .
+
+<personne118> <education> "université de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "écrivain ou écrivaine" .
+
+<personne119> <education> "université de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "auteur" .
+
+<personne12> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "cécité" ;
+    <worksAs> "acteur ou actrice" .
+
+<personne120> <education> "université de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "journaliste" .
+
+<personne121> <education> "université de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "épistolière" .
+
+<personne122> <education> "université de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "critique littéraire" .
+
+<personne123> <education> "université de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "philosophe" .
+
+<personne124> <education> "université de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "romancier ou romancière" .
+
+<personne125> <education> "université de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "acteur ou actrice de cinéma" .
+
+<personne126> <education> "université de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "militant ou militante politique" .
+
+<personne127> <education> "université de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "essayiste" .
+
+<personne128> <education> "université de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "autobiographe" .
+
+<personne129> <education> "université de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "philosophe politique" .
+
+<personne13> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "cécité" ;
+    <worksAs> "chanteur ou chanteuse" .
+
+<personne130> <education> "université de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "diariste" .
+
+<personne131> <education> "université de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "féministe" .
+
+<personne132> <education> "université de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "professeur de philosophie" .
+
+<personne133> <education> "Sorbonne" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "écrivain ou écrivaine" .
+
+<personne134> <education> "Sorbonne" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "auteur" .
+
+<personne135> <education> "Sorbonne" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "journaliste" .
+
+<personne136> <education> "Sorbonne" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "épistolière" .
+
+<personne137> <education> "Sorbonne" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "critique littéraire" .
+
+<personne138> <education> "Sorbonne" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "philosophe" .
+
+<personne139> <education> "Sorbonne" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "romancier ou romancière" .
+
+<personne14> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "cécité" ;
+    <worksAs> "auteur-compositeur ou autrice-compositrice" .
+
+<personne140> <education> "Sorbonne" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "acteur ou actrice de cinéma" .
+
+<personne141> <education> "Sorbonne" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "militant ou militante politique" .
+
+<personne142> <education> "Sorbonne" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "essayiste" .
+
+<personne143> <education> "Sorbonne" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "autobiographe" .
+
+<personne144> <education> "Sorbonne" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "philosophe politique" .
+
+<personne145> <education> "Sorbonne" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "diariste" .
+
+<personne146> <education> "Sorbonne" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "féministe" .
+
+<personne147> <education> "Sorbonne" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "professeur de philosophie" .
+
+<personne148> <education> "Institut catholique de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "écrivain ou écrivaine" .
+
+<personne149> <education> "Institut catholique de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "auteur" .
+
+<personne15> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "cécité" ;
+    <worksAs> "parolier ou parolière" .
+
+<personne150> <education> "Institut catholique de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "journaliste" .
+
+<personne151> <education> "Institut catholique de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "épistolière" .
+
+<personne152> <education> "Institut catholique de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "critique littéraire" .
+
+<personne153> <education> "Institut catholique de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "philosophe" .
+
+<personne154> <education> "Institut catholique de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "romancier ou romancière" .
+
+<personne155> <education> "Institut catholique de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "acteur ou actrice de cinéma" .
+
+<personne156> <education> "Institut catholique de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "militant ou militante politique" .
+
+<personne157> <education> "Institut catholique de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "essayiste" .
+
+<personne158> <education> "Institut catholique de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "autobiographe" .
+
+<personne159> <education> "Institut catholique de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "philosophe politique" .
+
+<personne16> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "cécité" ;
+    <worksAs> "artiste de rue" .
+
+<personne160> <education> "Institut catholique de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "diariste" .
+
+<personne161> <education> "Institut catholique de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "féministe" .
+
+<personne162> <education> "Institut catholique de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "professeur de philosophie" .
+
+<personne163> <education> "lycée Fénelon" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "écrivain ou écrivaine" .
+
+<personne164> <education> "lycée Fénelon" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "auteur" .
+
+<personne165> <education> "lycée Fénelon" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "journaliste" .
+
+<personne166> <education> "lycée Fénelon" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "épistolière" .
+
+<personne167> <education> "lycée Fénelon" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "critique littéraire" .
+
+<personne168> <education> "lycée Fénelon" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "philosophe" .
+
+<personne169> <education> "lycée Fénelon" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "romancier ou romancière" .
+
+<personne17> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "cécité" ;
+    <worksAs> "chansonnier" .
+
+<personne170> <education> "lycée Fénelon" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "acteur ou actrice de cinéma" .
+
+<personne171> <education> "lycée Fénelon" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "militant ou militante politique" .
+
+<personne172> <education> "lycée Fénelon" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "essayiste" .
+
+<personne173> <education> "lycée Fénelon" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "autobiographe" .
+
+<personne174> <education> "lycée Fénelon" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "philosophe politique" .
+
+<personne175> <education> "lycée Fénelon" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "diariste" .
+
+<personne176> <education> "lycée Fénelon" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "féministe" .
+
+<personne177> <education> "lycée Fénelon" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "professeur de philosophie" .
+
+<personne178> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "naturaliste" .
+
+<personne179> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "acteur ou actrice" .
+
+<personne18> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "cécité" ;
+    <worksAs> "artiste d'enregistrement" .
+
+<personne180> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "officier des douanes" .
+
+<personne181> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "skieur alpin ou skieuse alpine" .
+
+<personne182> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "pilote de course automobile" .
+
+<personne183> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "footballeur ou footballeuse" .
+
+<personne184> <education> "École supérieure de journalisme de Paris" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "scénariste" .
+
+<personne185> <education> "École supérieure de journalisme de Paris" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "écrivain ou écrivaine" .
+
+<personne186> <education> "École supérieure de journalisme de Paris" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "journaliste" .
+
+<personne187> <education> "École supérieure de journalisme de Paris" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "réalisateur ou réalisatrice de cinéma" .
+
+<personne188> <education> "École supérieure de journalisme de Paris" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "écrivain ou écrivaine de science-fiction" .
+
+<personne189> <education> "collège Calvin" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "écrivain ou écrivaine" .
+
+<personne19> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "polyarthrite rhumatoïde" ;
+    <worksAs> "acteur ou actrice" .
+
+<personne190> <education> "collège Calvin" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "entrepreneur ou entrepreneuse" .
+
+<personne191> <education> "collège Calvin" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "marchand ou marchande" .
+
+<personne192> <education> "collège Calvin" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "fondateur ou fondatrice" .
+
+<personne193> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "entraîneur ou entraîneuse de football" .
+
+<personne194> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "footballeur ou footballeuse" .
+
+<personne195> <education> "Université de Genève" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "écrivain ou écrivaine" .
+
+<personne196> <education> "Université de Genève" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "poète ou poétesse" .
+
+<personne197> <education> "Université de Genève" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "historien ou historienne" .
+
+<personne198> <education> "Université de Genève" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "dramaturge" .
+
+<personne199> <education> "Université de Genève" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "espérantiste" .
+
+<personne2> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "chanteur ou chanteuse" .
+
+<personne20> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "polyarthrite rhumatoïde" ;
+    <worksAs> "chanteur ou chanteuse" .
+
+<personne200> <education> "Université de Genève" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "professeur d'université" .
+
+<personne201> <education> "Université de Genève" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "journaliste" .
+
+<personne202> <education> "Université de Genève" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "militant pour la paix" .
+
+<personne203> <education> "Université de Genève" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "espérantologue" .
+
+<personne204> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "écrivain ou écrivaine" .
+
+<personne205> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "poète ou poétesse" .
+
+<personne206> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "historien ou historienne" .
+
+<personne207> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "traducteur ou traductrice" .
+
+<personne208> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "espérantiste" .
+
+<personne209> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "professeur d'université" .
+
+<personne21> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "polyarthrite rhumatoïde" ;
+    <worksAs> "auteur-compositeur ou autrice-compositrice" .
+
+<personne210> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "philologue" .
+
+<personne211> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "linguiste" .
+
+<personne212> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "lexicographe" .
+
+<personne213> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "espérantologue" .
+
+<personne214> <education> "Conservatoire national des arts et métiers" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "personnalité politique" .
+
+<personne215> <education> "Conservatoire national des arts et métiers" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "homme ou femme d'État" .
+
+<personne216> <education> "faculté des sciences de Paris" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "personnalité politique" .
+
+<personne217> <education> "faculté des sciences de Paris" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "homme ou femme d'État" .
+
+<personne218> <education> "École normale supérieure" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "écrivain ou écrivaine" .
+
+<personne219> <education> "École normale supérieure" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "reporter" .
+
+<personne22> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "polyarthrite rhumatoïde" ;
+    <worksAs> "parolier ou parolière" .
+
+<personne220> <education> "École normale supérieure" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "personnalité politique" .
+
+<personne221> <education> "École normale supérieure" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "professeur" .
+
+<personne222> <education> "École normale supérieure" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "historien ou historienne" .
+
+<personne223> <education> "École normale supérieure" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "maître ou maîtresse de conférences" .
+
+<personne224> <education> "École normale supérieure" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "parlementaire" .
+
+<personne225> <education> "École normale supérieure" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "journaliste" .
+
+<personne226> <education> "École normale supérieure" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "socialiste" .
+
+<personne227> <education> "École normale supérieure" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "pacifiste" .
+
+<personne228> <education> "lycée Louis-le-Grand" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "écrivain ou écrivaine" .
+
+<personne229> <education> "lycée Louis-le-Grand" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "reporter" .
+
+<personne23> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "polyarthrite rhumatoïde" ;
+    <worksAs> "artiste de rue" .
+
+<personne230> <education> "lycée Louis-le-Grand" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "personnalité politique" .
+
+<personne231> <education> "lycée Louis-le-Grand" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "professeur" .
+
+<personne232> <education> "lycée Louis-le-Grand" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "historien ou historienne" .
+
+<personne233> <education> "lycée Louis-le-Grand" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "maître ou maîtresse de conférences" .
+
+<personne234> <education> "lycée Louis-le-Grand" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "parlementaire" .
+
+<personne235> <education> "lycée Louis-le-Grand" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "journaliste" .
+
+<personne236> <education> "lycée Louis-le-Grand" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "socialiste" .
+
+<personne237> <education> "lycée Louis-le-Grand" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "pacifiste" .
+
+<personne238> <education> "collège Sainte-Barbe" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "écrivain ou écrivaine" .
+
+<personne239> <education> "collège Sainte-Barbe" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "reporter" .
+
+<personne24> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "polyarthrite rhumatoïde" ;
+    <worksAs> "chansonnier" .
+
+<personne240> <education> "collège Sainte-Barbe" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "personnalité politique" .
+
+<personne241> <education> "collège Sainte-Barbe" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "professeur" .
+
+<personne242> <education> "collège Sainte-Barbe" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "historien ou historienne" .
+
+<personne243> <education> "collège Sainte-Barbe" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "maître ou maîtresse de conférences" .
+
+<personne244> <education> "collège Sainte-Barbe" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "parlementaire" .
+
+<personne245> <education> "collège Sainte-Barbe" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "journaliste" .
+
+<personne246> <education> "collège Sainte-Barbe" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "socialiste" .
+
+<personne247> <education> "collège Sainte-Barbe" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "pacifiste" .
+
+<personne248> <education> "École polytechnique" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "écrivain ou écrivaine" .
+
+<personne249> <education> "École polytechnique" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "mathématicien ou mathématicienne" .
+
+<personne25> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "polyarthrite rhumatoïde" ;
+    <worksAs> "artiste d'enregistrement" .
+
+<personne250> <education> "École polytechnique" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "répétiteur ou répétitrice" .
+
+<personne251> <education> "École polytechnique" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "sociologue" .
+
+<personne252> <education> "École polytechnique" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "philosophe" .
+
+<personne253> <education> "lycée Joffre" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "écrivain ou écrivaine" .
+
+<personne254> <education> "lycée Joffre" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "mathématicien ou mathématicienne" .
+
+<personne255> <education> "lycée Joffre" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "répétiteur ou répétitrice" .
+
+<personne256> <education> "lycée Joffre" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "sociologue" .
+
+<personne257> <education> "lycée Joffre" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "philosophe" .
+
+<personne258> <education> "Conservatoire de Paris" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "compositeur ou compositrice" .
+
+<personne259> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "espérantiste" .
+
+<personne26> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "kératite" ;
+    <worksAs> "acteur ou actrice" .
+
+<personne260> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "professeur d'université" .
+
+<personne261> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "linguiste" .
+
+<personne262> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "lexicographe" .
+
+<personne263> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "slaviste" .
+
+<personne264> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "espérantologue" .
+
+<personne265> <education> "École normale supérieure" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "professeur" .
+
+<personne266> <education> "École normale supérieure" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "professeur d'université" .
+
+<personne267> <education> "École normale supérieure" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "chercheur ou chercheuse" .
+
+<personne268> <education> "École normale supérieure" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "linguiste" .
+
+<personne269> <education> "École des hautes études en sciences sociales" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "professeur" .
+
+<personne27> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "kératite" ;
+    <worksAs> "chanteur ou chanteuse" .
+
+<personne270> <education> "École des hautes études en sciences sociales" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "professeur d'université" .
+
+<personne271> <education> "École des hautes études en sciences sociales" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "chercheur ou chercheuse" .
+
+<personne272> <education> "École des hautes études en sciences sociales" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "linguiste" .
+
+<personne273> <education> "lycée Louis-le-Grand" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "professeur" .
+
+<personne274> <education> "lycée Louis-le-Grand" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "professeur d'université" .
+
+<personne275> <education> "lycée Louis-le-Grand" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "chercheur ou chercheuse" .
+
+<personne276> <education> "lycée Louis-le-Grand" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "linguiste" .
+
+<personne277> <education> "université Paris-Descartes" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "professeur" .
+
+<personne278> <education> "université Paris-Descartes" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "professeur d'université" .
+
+<personne279> <education> "université Paris-Descartes" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "chercheur ou chercheuse" .
+
+<personne28> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "kératite" ;
+    <worksAs> "auteur-compositeur ou autrice-compositrice" .
+
+<personne280> <education> "université Paris-Descartes" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "linguiste" .
+
+<personne281> <education> "lycée Carnot de Tunis" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "professeur" .
+
+<personne282> <education> "lycée Carnot de Tunis" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "professeur d'université" .
+
+<personne283> <education> "lycée Carnot de Tunis" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "chercheur ou chercheuse" .
+
+<personne284> <education> "lycée Carnot de Tunis" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "linguiste" .
+
+<personne285> <education> "École nationale des langues orientales vivantes" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "professeur" .
+
+<personne286> <education> "École nationale des langues orientales vivantes" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "professeur d'université" .
+
+<personne287> <education> "École nationale des langues orientales vivantes" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "chercheur ou chercheuse" .
+
+<personne288> <education> "École nationale des langues orientales vivantes" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "linguiste" .
+
+<personne289> <education> "université Jean-Moulin-Lyon-III" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "personnalité politique" .
+
+<personne29> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "kératite" ;
+    <worksAs> "parolier ou parolière" .
+
+<personne290> <education> "Institut d'études politiques de Lyon" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "personnalité politique" .
+
+<personne291> <education> "École centrale Paris" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "personnalité politique" .
+
+<personne292> <education> "École centrale Paris" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "économiste" .
+
+<personne293> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "médecin" .
+
+<personne294> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "personnalité politique" .
+
+<personne295> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "professeur d'université" .
+
+<personne296> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "chirurgien en transplantologie" .
+
+<personne297> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "immunologiste" .
+
+<personne298> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "médecin interniste" .
+
+<personne299> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "néphrologue" .
+
+<personne3> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "dramaturge" .
+
+<personne30> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "kératite" ;
+    <worksAs> "artiste de rue" .
+
+<personne300> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "personnalité politique" .
+
+<personne301> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "chef ou cheffe d'entreprise" .
+
+<personne302> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "chefs d'entreprise de 10 salariés ou plus" .
+
+<personne303> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "personnalité politique" .
+
+<personne304> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "anciens cadres" .
+
+<personne305> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "personnes diverses sans activité professionnelle de moins de 60 ans sauf retraités" .
+
+<personne306> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "personnalité politique" .
+
+<personne307> <education> "université de Paris" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "personnalité politique" .
+
+<personne308> <education> "université de Paris" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "auteur" .
+
+<personne309> <education> "université de Paris" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "facteur ou factrice" .
+
+<personne31> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "kératite" ;
+    <worksAs> "chansonnier" .
+
+<personne310> <education> "université de Paris" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "syndicaliste" .
+
+<personne311> <education> "université de Paris" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "communiste" .
+
+<personne312> <education> "université Paris-Nanterre" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "personnalité politique" .
+
+<personne313> <education> "université Paris-Nanterre" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "auteur" .
+
+<personne314> <education> "université Paris-Nanterre" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "facteur ou factrice" .
+
+<personne315> <education> "université Paris-Nanterre" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "syndicaliste" .
+
+<personne316> <education> "université Paris-Nanterre" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "communiste" .
+
+<personne317> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "personnalité politique" .
+
+<personne318> <education> "université Jean-Moulin-Lyon-III" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "juge" .
+
+<personne319> <education> "université Jean-Moulin-Lyon-III" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "personnalité politique" .
+
+<personne32> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "kératite" ;
+    <worksAs> "artiste d'enregistrement" .
+
+<personne320> <education> "université Jean-Moulin-Lyon-III" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "juriste" .
+
+<personne321> <education> "université Jean-Moulin-Lyon-III" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "parlementaire" .
+
+<personne322> <education> "université Jean-Moulin-Lyon-III" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "magistrat ou magistrate" .
+
+<personne323> <education> "université de Paris" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "enseignant ou enseignante" .
+
+<personne324> <education> "université de Paris" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "personnalité politique" .
+
+<personne325> <education> "université de Paris" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "journaliste" .
+
+<personne326> <education> "lycée Condorcet" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "enseignant ou enseignante" .
+
+<personne327> <education> "lycée Condorcet" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "personnalité politique" .
+
+<personne328> <education> "lycée Condorcet" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "journaliste" .
+
+<personne329> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "personnalité politique" .
+
+<personne33> <education> "faculté des lettres de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "scénariste" .
+
+<personne330> <education> "Institut d'études politiques de Paris" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "militaire" .
+
+<personne331> <education> "Institut d'études politiques de Paris" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "personnalité politique" .
+
+<personne332> <education> "Institut d'études politiques de Paris" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "journaliste" .
+
+<personne333> <education> "Institut d'études politiques de Paris" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "joueur ou joueuse de tennis" .
+
+<personne334> <education> "Institut d'études politiques de Paris" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "joueur ou joueuse de rugby à XV" .
+
+<personne335> <education> "faculté de droit de Paris" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "militaire" .
+
+<personne336> <education> "faculté de droit de Paris" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "personnalité politique" .
+
+<personne337> <education> "faculté de droit de Paris" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "journaliste" .
+
+<personne338> <education> "faculté de droit de Paris" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "joueur ou joueuse de tennis" .
+
+<personne339> <education> "faculté de droit de Paris" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "joueur ou joueuse de rugby à XV" .
+
+<personne34> <education> "faculté des lettres de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "écrivain ou écrivaine" .
+
+<personne340> <education> "lycée Lakanal" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "militaire" .
+
+<personne341> <education> "lycée Lakanal" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "personnalité politique" .
+
+<personne342> <education> "lycée Lakanal" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "journaliste" .
+
+<personne343> <education> "lycée Lakanal" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "joueur ou joueuse de tennis" .
+
+<personne344> <education> "lycée Lakanal" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "joueur ou joueuse de rugby à XV" .
+
+<personne345> <education> "HEC Paris" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "Covid-19" ;
+    <worksAs> "personnalité politique" .
+
+<personne346> <education> "HEC Paris" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "Covid-19" ;
+    <worksAs> "officiel" .
+
+<personne347> <education> "HEC Paris" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "Covid-19" ;
+    <worksAs> "cadres de la fonction publique" .
+
+<personne348> <education> "École nationale d'administration" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "Covid-19" ;
+    <worksAs> "personnalité politique" .
+
+<personne349> <education> "École nationale d'administration" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "Covid-19" ;
+    <worksAs> "officiel" .
+
+<personne35> <education> "faculté des lettres de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "poète ou poétesse" .
+
+<personne350> <education> "École nationale d'administration" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "Covid-19" ;
+    <worksAs> "cadres de la fonction publique" .
+
+<personne351> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "écrivain ou écrivaine" .
+
+<personne352> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "poète ou poétesse" .
+
+<personne353> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "traducteur ou traductrice" .
+
+<personne354> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "banquier" .
+
+<personne355> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "espérantiste" .
+
+<personne356> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "artiste de cabaret" .
+
+<personne357> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "directeur de banque" .
+
+<personne358> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "footballeur ou footballeuse" .
+
+<personne359> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "formateur" .
+
+<personne36> <education> "faculté des lettres de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "dramaturge" .
+
+<personne360> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "commentateur" .
+
+<personne361> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "footballeur ou footballeuse" .
+
+<personne362> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "entraîneur de gardien de but" .
+
+<personne363> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "footballeur ou footballeuse" .
+
+<personne364> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "footballeur ou footballeuse" .
+
+<personne365> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "footballeur ou footballeuse" .
+
+<personne366> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "Covid-19" ;
+    <worksAs> "footballeur ou footballeuse" .
+
+<personne367> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "journaliste" .
+
+<personne368> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "animateur ou animatrice de radio" .
+
+<personne369> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "journaliste" .
+
+<personne37> <education> "faculté des lettres de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "biographe" .
+
+<personne370> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "professions de l'information, des arts et des spectacles" .
+
+<personne371> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "animateur ou animatrice de radio" .
+
+<personne372> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "écrivain sportif" .
+
+<personne373> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "journaliste" .
+
+<personne374> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "animateur ou animatrice de radio" .
+
+<personne375> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "écrivain sportif" .
+
+<personne376> <education> "université Paris-Nord" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "écrivain ou écrivaine" .
+
+<personne377> <education> "université Paris-Nord" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "sportif ou sportive" .
+
+<personne378> <education> "université Paris-Nord" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "cycliste" .
+
+<personne379> <education> "université Paris-Nord" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "coureur ou coureuse cycliste" .
+
+<personne38> <education> "faculté des lettres de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "réalisateur ou réalisatrice de cinéma" .
+
+<personne380> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "coureur ou coureuse cycliste" .
+
+<personne381> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "consultant sportif" .
+
+<personne382> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "biographe" .
+
+<personne383> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "journaliste" .
+
+<personne384> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "écrivain sportif" .
+
+<personne385> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "entraîneur ou entraîneuse de football" .
+
+<personne386> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "footballeur ou footballeuse" .
+
+<personne387> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "entraîneur ou entraîneuse de football" .
+
+<personne388> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "footballeur ou footballeuse" .
+
+<personne389> <education> "École nationale supérieure des mines de Paris" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "professeur" .
+
+<personne39> <education> "faculté des lettres de Paris" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "romancier ou romancière" .
+
+<personne390> <education> "École nationale supérieure des mines de Paris" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "mathématicien ou mathématicienne" .
+
+<personne391> <education> "École nationale supérieure des mines de Paris" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "économiste" .
+
+<personne392> <education> "École nationale supérieure des mines de Paris" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "économiste" .
+
+<personne393> <education> "École nationale supérieure des mines de Paris" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "professeur d'université" .
+
+<personne394> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "écrivain ou écrivaine" .
+
+<personne395> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "économiste" .
+
+<personne396> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "traducteur ou traductrice" .
+
+<personne397> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "économiste" .
+
+<personne398> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "personnalité politique" .
+
+<personne399> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "personnes diverses sans activité professionnelle de moins de 60 ans sauf retraités" .
+
+<personne4> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "auteur-compositeur-interprète" .
+
+<personne40> <education> "cours Hattemer" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "scénariste" .
+
+<personne400> <education> "vide" ;
+    <genderIs> "masculin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "personnalité politique" .
+
+<personne41> <education> "cours Hattemer" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "écrivain ou écrivaine" .
+
+<personne42> <education> "cours Hattemer" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "poète ou poétesse" .
+
+<personne43> <education> "cours Hattemer" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "dramaturge" .
+
+<personne44> <education> "cours Hattemer" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "biographe" .
+
+<personne45> <education> "cours Hattemer" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "réalisateur ou réalisatrice de cinéma" .
+
+<personne46> <education> "cours Hattemer" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "romancier ou romancière" .
+
+<personne47> <education> "lycée Hélène-Boucher" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "scénariste" .
+
+<personne48> <education> "lycée Hélène-Boucher" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "écrivain ou écrivaine" .
+
+<personne49> <education> "lycée Hélène-Boucher" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "poète ou poétesse" .
+
+<personne5> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "parolier ou parolière" .
+
+<personne50> <education> "lycée Hélène-Boucher" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "dramaturge" .
+
+<personne51> <education> "lycée Hélène-Boucher" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "biographe" .
+
+<personne52> <education> "lycée Hélène-Boucher" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "réalisateur ou réalisatrice de cinéma" .
+
+<personne53> <education> "lycée Hélène-Boucher" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "romancier ou romancière" .
+
+<personne54> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "acteur ou actrice" .
+
+<personne55> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "compositeur ou compositrice" .
+
+<personne56> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "poète ou poétesse" .
+
+<personne57> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "chanteur ou chanteuse" .
+
+<personne58> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "auteur-compositeur-interprète" .
+
+<personne59> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "musicien ou musicienne" .
+
+<personne6> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "acteur ou actrice de théâtre" .
+
+<personne60> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "acteur ou actrice de télévision" .
+
+<personne61> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "acteur ou actrice de cinéma" .
+
+<personne62> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "chansonnier" .
+
+<personne63> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "artiste d'enregistrement" .
+
+<personne64> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "écrivain ou écrivaine" .
+
+<personne65> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "compositeur ou compositrice" .
+
+<personne66> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "dramaturge" .
+
+<personne67> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "auteur" .
+
+<personne68> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "journaliste" .
+
+<personne69> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "salonnier ou salonnière" .
+
+<personne7> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "réalisateur ou réalisatrice de cinéma" .
+
+<personne70> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "romancier ou romancière" .
+
+<personne71> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "librettiste" .
+
+<personne72> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "diariste" .
+
+<personne73> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "militant ou militante pour les droits des femmes" .
+
+<personne74> <education> "université d'État de Moscou" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "scénariste" .
+
+<personne75> <education> "université d'État de Moscou" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "écrivain ou écrivaine" .
+
+<personne76> <education> "université d'État de Moscou" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "poète ou poétesse" .
+
+<personne77> <education> "université d'État de Moscou" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "romancier ou romancière" .
+
+<personne78> <education> "université d'État de Moscou" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "résistant ou résistante" .
+
+<personne79> <education> "École Boulle" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "écrivain ou écrivaine" .
+
+<personne8> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "romancier ou romancière" .
+
+<personne80> <education> "École Boulle" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "illustrateur ou illustratrice" .
+
+<personne81> <education> "École Boulle" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "sculpteur ou sculptrice" .
+
+<personne82> <education> "École Boulle" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "auteur ou autrice de littérature pour la jeunesse" .
+
+<personne83> <education> "Conservatoire national supérieur d'art dramatique" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "amputation" ;
+    <worksAs> "acteur ou actrice" .
+
+<personne84> <education> "Conservatoire national supérieur d'art dramatique" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "amputation" ;
+    <worksAs> "écrivain ou écrivaine" .
+
+<personne85> <education> "Conservatoire national supérieur d'art dramatique" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "amputation" ;
+    <worksAs> "artiste peintre" .
+
+<personne86> <education> "Conservatoire national supérieur d'art dramatique" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "amputation" ;
+    <worksAs> "sculpteur ou sculptrice" .
+
+<personne87> <education> "Conservatoire national supérieur d'art dramatique" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "amputation" ;
+    <worksAs> "directeur ou directrice de théâtre" .
+
+<personne88> <education> "Conservatoire national supérieur d'art dramatique" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "amputation" ;
+    <worksAs> "acteur ou actrice de théâtre" .
+
+<personne89> <education> "Conservatoire national supérieur d'art dramatique" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "amputation" ;
+    <worksAs> "danseur ou danseuse" .
+
+<personne9> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "acteur ou actrice de cinéma" .
+
+<personne90> <education> "Conservatoire national supérieur d'art dramatique" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "amputation" ;
+    <worksAs> "acteur ou actrice de cinéma" .
+
+<personne91> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "écrivain ou écrivaine" .
+
+<personne92> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "religieuse" .
+
+<personne93> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "philosophe" .
+
+<personne94> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "érudit" .
+
+<personne95> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "religieuse chrétienne" .
+
+<personne96> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "monarque" .
+
+<personne97> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "écrivain ou écrivaine" .
+
+<personne98> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "poète ou poétesse" .
+
+<personne99> <education> "vide" ;
+    <genderIs> "féminin" ;
+    <locatedIn> "France" ;
+    <sante> "vide" ;
+    <worksAs> "aristocrate" .
+
