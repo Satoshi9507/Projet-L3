@@ -1,0 +1,5 @@
+(Personne_i, genderIs, genre)
+(Personne_i, locatedIn, pays)
+(Personne_i, worksAs, profession)
+(Personne_i, education, niveau_education)
+(Personne_i, sante, etat_sante)
