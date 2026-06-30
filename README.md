@@ -12,14 +12,14 @@ Visualisation : le fichier visualisation_final.py, qui génère les graphiques e
 
 ### Instructions
 
-Avant toute exécution, il est nécessaire d'installer les imports requis.
+Il est nécessaire d'installer les imports requis pour exécuter.
 
 Pour le notebook, les dépendances suivantes doivent être installées :
 
 - pip install pandas transformers torch tqdm
 
 
-Une fois les dépendances installées, ouvrir le fichier audi.ipynb et exécuter chaque cellule avec ctrl + entrée. C'est l'exécution de ce notebook qui permet de générer le fichier de données traité (audit_d_dataset.csv), nécessaire pour la suite.
+Une fois les dépendances installées, ouvrir le fichier audi.ipynb et exécuter chaque cellule avec ctrl + entrée. C'est l'exécution de ce notebook qui permet de générer le fichier de données traité audit_d_dataset.csv.
 
 ### Commandes pour visualisation_final.py
 
