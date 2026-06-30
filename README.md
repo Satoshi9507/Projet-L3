@@ -1,32 +1,37 @@
-Projet: Analyse expérimentale des biais dans les grands modèles de langage 
+# Analyse expérimentale des biais dans les grands modèles de langage
+
+Ce projet propose une méthode d'évaluation des biais de genre dans le monde du travail au sein des grands modèles de langage (LLM), à partir d'un graphe de connaissances. L'objectif est de générer automatiquement des prompts variés et contrôlés afin d'interroger plusieurs modèles, puis d'analyser leurs réponses pour détecter et comparer les biais présents dans leurs justifications.
+
+## Fonctionnalités
+
+Le projet est composé de deux parties principales :
+
+Notebook : le fichier audi.ipynb, qui effectue le traitement et la classification des réponses des modèles via une analyse NLI (zero-shot).
+Visualisation : le fichier visualisation_final.py, qui génère les graphiques et heatmaps à partir des données traitées.
+
+### Instructions
+
+Avant toute exécution, il est nécessaire d'installer les imports requis.
+
+Pour le notebook, les dépendances suivantes doivent être installées :
+
+- pip install pandas transformers torch tqdm
 
 
-contenu du git : 
+Une fois les dépendances installées, ouvrir le fichier audi.ipynb et exécuter chaque cellule avec ctrl + entrée. C'est l'exécution de ce notebook qui permet de générer le fichier de données traité (audit_d_dataset.csv), nécessaire pour la suite.
 
-- data : donné des fichier genérer / et script des prompt generer
-- graphe : visualisation des graphe de connaissance 
-- notebook : contient le ficher audi pour executer les calculs de score 
-- visualisation : script et image des comparaison modeles et statistique des scores 
-- Rapport / Slides 
+### Commandes pour visualisation_final.py
 
+Ouvrir un terminal dans le dossier Projet-L3 et installe les dépendances nécessaires :
 
-I) Notebook
-
-Le dossier notebook contient le fichier Audi.ipynb.
-Ce notebook contient des cellules à exécuter  :  'ctrl + entrer' pour executer chaque cellule 
+pip install pandas matplotlib textblob
 
 
-II) Visualisation
+Pour lancer le script :
 
-Pour executer visualisation_final.py:
-- Ouvre un terminal dans le dossier Projet-L3
-- Installe les dépendances nécessaires:  pip install pandas matplotlib textblob
-- Lance le script: python3 visualisation_final.py 
-
-IV) Organisation du git 
-
-Chaque membre a sa propre branche sur laquelle ils deposent leurs travail ( qu'il soit utile ou non ). Sur la branche main, il contient seulement les fichiers qu'on utilise pour le projet. 
+python3 visualisation_final.py
 
 
+## Organisation du git
 
-
+Chaque membre dispose de sa propre branche sur laquelle il dépose son travail (utile ou non). La branche main ne contient que les fichiers utilisés pour le projet final.
