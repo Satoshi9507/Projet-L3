@@ -1,0 +1,39 @@
+skill_id,skill_label,skill_family_id,skill_family_label
+SK_CRITICAL_THINKING,Critical Thinking,SKF_ANALYTICAL_DECISIONAL,Analytical & Decision-Making Skills
+SK_DECISION_MAKING,Decision Making,SKF_ANALYTICAL_DECISIONAL,Analytical & Decision-Making Skills
+SK_PROBLEM_SOLVING,Problem Solving,SKF_ANALYTICAL_DECISIONAL,Analytical & Decision-Making Skills
+SK_CARE,Care,SKF_CARE_SUPPORT,Care & Support Skills
+SK_CHILD_DEVELOPMENT,Child Development,SKF_CARE_SUPPORT,Care & Support Skills
+SK_GUIDANCE,Guidance,SKF_CARE_SUPPORT,Care & Support Skills
+SK_MEDICAL_DIAGNOSIS,Medical Diagnosis,SKF_CARE_SUPPORT,Care & Support Skills
+SK_SOCIAL_SUPPORT,Social Support,SKF_CARE_SUPPORT,Care & Support Skills
+SK_PEDAGOGY,Pedagogy,SKF_EDUCATION,Teaching & Pedagogical Skills
+SK_TEACHING,Teaching,SKF_EDUCATION,Teaching & Pedagogical Skills
+SK_TRAINING,Training,SKF_EDUCATION,Teaching & Pedagogical Skills
+SK_ADMINISTRATIVE_MANAGEMENT,Administrative Management,SKF_LEGAL_ADMIN,Legal & Administrative Skills
+SK_LEGAL_REASONING,Legal Reasoning,SKF_LEGAL_ADMIN,Legal & Administrative Skills
+SK_ORGANIZATION,Organization,SKF_LEGAL_ADMIN,Legal & Administrative Skills
+SK_BUSINESS_STRATEGY,Business Strategy,SKF_MANAGEMENT_STRATEGY,"Management, Leadership & Strategy Skills"
+SK_LEADERSHIP,Leadership,SKF_MANAGEMENT_STRATEGY,"Management, Leadership & Strategy Skills"
+SK_PROJECT_MANAGEMENT,Project Management,SKF_MANAGEMENT_STRATEGY,"Management, Leadership & Strategy Skills"
+SK_SALES,Sales,SKF_MANAGEMENT_STRATEGY,"Management, Leadership & Strategy Skills"
+SK_STRESS_MANAGEMENT,Stress Management,SKF_MANAGEMENT_STRATEGY,"Management, Leadership & Strategy Skills"
+SK_TEAM_MANAGEMENT,Team Management,SKF_MANAGEMENT_STRATEGY,"Management, Leadership & Strategy Skills"
+SK_CLIENT_RELATIONSHIP,Client Relationship,SKF_RELATIONAL,Interpersonal & Communication Skills
+SK_COMMUNICATION,Communication,SKF_RELATIONAL,Interpersonal & Communication Skills
+SK_EMPATHY,Empathy,SKF_RELATIONAL,Interpersonal & Communication Skills
+SK_LISTENING,Active Listening,SKF_RELATIONAL,Interpersonal & Communication Skills
+SK_MEDIATION,Mediation,SKF_RELATIONAL,Interpersonal & Communication Skills
+SK_NEGOTIATION,Negotiation,SKF_RELATIONAL,Interpersonal & Communication Skills
+SK_PUBLIC_RECEPTION,Public Reception,SKF_RELATIONAL,Interpersonal & Communication Skills
+SK_BIOLOGY,Biology,SKF_SCIENTIFIC,Scientific Skills
+SK_CHEMISTRY,Chemistry,SKF_SCIENTIFIC,Scientific Skills
+SK_COMPUTER_SCIENCE,Computer Science,SKF_SCIENTIFIC,Scientific Skills
+SK_ECONOMICS,Economics,SKF_SCIENTIFIC,Scientific Skills
+SK_MATH,Mathematics,SKF_SCIENTIFIC,Scientific Skills
+SK_MEDICAL_SCIENCE,Medical Sciences,SKF_SCIENTIFIC,Scientific Skills
+SK_PHYSICS,Physics,SKF_SCIENTIFIC,Scientific Skills
+SK_DIGITAL_TOOLS,Digital Tools Proficiency,SKF_TECHNICAL,Technical Skills
+SK_PROGRAMMING,Programming,SKF_TECHNICAL,Technical Skills
+SK_SYSTEMS_THINKING,Systems Thinking,SKF_TECHNICAL,Technical Skills
+SK_TECHNICAL_REASONING,Technical Reasoning,SKF_TECHNICAL,Technical Skills

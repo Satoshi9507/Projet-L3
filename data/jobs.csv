@@ -1,0 +1,81 @@
+profession_id,profession_label,sector_id,sector_label,qualification_id,qualification_label
+P_TECH_001,Engineer,SEC_TECH,Technology & Engineering,QUAL_HIGH,High
+P_TECH_002,Software Developer,SEC_TECH,Technology & Engineering,QUAL_HIGH,High
+P_TECH_003,Systems Administrator,SEC_TECH,Technology & Engineering,QUAL_HIGH,High
+P_TECH_004,Network Technician,SEC_TECH,Technology & Engineering,QUAL_HIGH,High
+P_TECH_005,Cybersecurity Analyst,SEC_TECH,Technology & Engineering,QUAL_HIGH,High
+P_TECH_007,IT Project Manager,SEC_TECH,Technology & Engineering,QUAL_HIGH,High
+P_TECH_008,Product Owner,SEC_TECH,Technology & Engineering,QUAL_HIGH,High
+P_TECH_009,UX/UI Designer,SEC_TECH,Technology & Engineering,QUAL_HIGH,High
+P_TECH_010,Data Analyst,SEC_TECH,Technology & Engineering,QUAL_HIGH,High
+P_HEALTH_001,Surgeon,SEC_HEALTH,Healthcare & Social Services,QUAL_HIGH,High
+P_HEALTH_002,Paramedic,SEC_HEALTH,Healthcare & Social Services,QUAL_HIGH,High
+P_HEALTH_003,Physiotherapist,SEC_HEALTH,Healthcare & Social Services,QUAL_HIGH,High
+P_HEALTH_005,Nurse,SEC_HEALTH,Healthcare & Social Services,QUAL_HIGH,High
+P_HEALTH_006,Nursing Assistant,SEC_HEALTH,Healthcare & Social Services,QUAL_HIGH,High
+P_HEALTH_007,Midwife,SEC_HEALTH,Healthcare & Social Services,QUAL_HIGH,High
+P_HEALTH_008,Social Worker,SEC_HEALTH,Healthcare & Social Services,QUAL_HIGH,High
+P_HEALTH_009,General Practitioner,SEC_HEALTH,Healthcare & Social Services,QUAL_HIGH,High
+P_HEALTH_010,Psychologist,SEC_HEALTH,Healthcare & Social Services,QUAL_HIGH,High
+P_HEALTH_011,Pharmacist,SEC_HEALTH,Healthcare & Social Services,QUAL_HIGH,High
+P_HEALTH_012,Speech Therapist,SEC_HEALTH,Healthcare & Social Services,QUAL_HIGH,High
+P_EDU_001,University Professor,SEC_EDU,Education & Training,QUAL_HIGH,High
+P_EDU_002,Researcher,SEC_EDU,Education & Training,QUAL_HIGH,High
+P_EDU_003,Technical Trainer,SEC_EDU,Education & Training,QUAL_HIGH,High
+P_EDU_004,School Principal,SEC_EDU,Education & Training,QUAL_HIGH,High
+P_EDU_005,Primary School Teacher,SEC_EDU,Education & Training,QUAL_HIGH,High
+P_EDU_006,Early Childhood Educator,SEC_EDU,Education & Training,QUAL_HIGH,High
+P_EDU_007,School Learning Support Assistant,SEC_EDU,Education & Training,QUAL_HIGH,High
+P_EDU_008,Career Counselor,SEC_EDU,Education & Training,QUAL_HIGH,High
+P_EDU_009,Teacher,SEC_EDU,Education & Training,QUAL_HIGH,High
+P_EDU_012,Head of Curriculum,SEC_EDU,Education & Training,QUAL_HIGH,High
+P_LAW_001,Judge,SEC_LAW_ADMIN,"Law, Administration & Management",QUAL_HIGH,High
+P_LAW_002,Bailiff,SEC_LAW_ADMIN,"Law, Administration & Management",QUAL_HIGH,High
+P_LAW_003,Police Commissioner,SEC_LAW_ADMIN,"Law, Administration & Management",QUAL_HIGH,High
+P_LAW_004,Administrative Director,SEC_LAW_ADMIN,"Law, Administration & Management",QUAL_HIGH,High
+P_LAW_005,Legal Secretary,SEC_LAW_ADMIN,"Law, Administration & Management",QUAL_HIGH,High
+P_LAW_006,Administrative Assistant,SEC_LAW_ADMIN,"Law, Administration & Management",QUAL_HIGH,High
+P_LAW_007,Court Clerk,SEC_LAW_ADMIN,"Law, Administration & Management",QUAL_HIGH,High
+P_LAW_008,Front Desk Officer,SEC_LAW_ADMIN,"Law, Administration & Management",QUAL_HIGH,High
+P_LAW_009,Lawyer,SEC_LAW_ADMIN,"Law, Administration & Management",QUAL_HIGH,High
+P_LAW_010,Legal Advisor,SEC_LAW_ADMIN,"Law, Administration & Management",QUAL_HIGH,High
+P_LAW_011,Notary,SEC_LAW_ADMIN,"Law, Administration & Management",QUAL_HIGH,High
+P_LAW_012,Administrative Manager,SEC_LAW_ADMIN,"Law, Administration & Management",QUAL_HIGH,High
+P_BUS_001,Business Executive,SEC_BUSINESS,"Business, Leadership & Finance",QUAL_HIGH,High
+P_BUS_002,Trader,SEC_BUSINESS,"Business, Leadership & Finance",QUAL_HIGH,High
+P_BUS_003,Financial Analyst,SEC_BUSINESS,"Business, Leadership & Finance",QUAL_HIGH,High
+P_BUS_004,Sales Director,SEC_BUSINESS,"Business, Leadership & Finance",QUAL_HIGH,High
+P_BUS_005,Executive Assistant,SEC_BUSINESS,"Business, Leadership & Finance",QUAL_HIGH,High
+P_BUS_006,Account Manager,SEC_BUSINESS,"Business, Leadership & Finance",QUAL_HIGH,High
+P_BUS_007,HR Manager,SEC_BUSINESS,"Business, Leadership & Finance",QUAL_HIGH,High
+P_BUS_008,Accountant,SEC_BUSINESS,"Business, Leadership & Finance",QUAL_HIGH,High
+P_BUS_009,Project Manager,SEC_BUSINESS,"Business, Leadership & Finance",QUAL_HIGH,High
+P_BUS_010,Consultant,SEC_BUSINESS,"Business, Leadership & Finance",QUAL_HIGH,High
+P_BUS_011,Management Controller,SEC_BUSINESS,"Business, Leadership & Finance",QUAL_HIGH,High
+P_BUS_012,Entrepreneur,SEC_BUSINESS,"Business, Leadership & Finance",QUAL_HIGH,High
+P_LOW_F_001,Cleaning Agent,SEC_MANUAL_SERVICE,Manual Work & Essential Services,QUAL_LOW,Low
+P_LOW_F_002,Housekeeper,SEC_MANUAL_SERVICE,Manual Work & Essential Services,QUAL_LOW,Low
+P_LOW_F_003,Laundry Worker,SEC_MANUAL_SERVICE,Manual Work & Essential Services,QUAL_LOW,Low
+P_LOW_F_004,Home Care Assistant,SEC_MANUAL_SERVICE,Manual Work & Essential Services,QUAL_LOW,Low
+P_LOW_F_005,Life Assistant,SEC_MANUAL_SERVICE,Manual Work & Essential Services,QUAL_LOW,Low
+P_LOW_F_006,Nanny,SEC_MANUAL_SERVICE,Manual Work & Essential Services,QUAL_LOW,Low
+P_LOW_F_007,Childminder,SEC_MANUAL_SERVICE,Manual Work & Essential Services,QUAL_LOW,Low
+P_LOW_F_008,Hospital Service Agent,SEC_MANUAL_SERVICE,Manual Work & Essential Services,QUAL_LOW,Low
+P_LOW_F_009,Cashier,SEC_MANUAL_SERVICE,Manual Work & Essential Services,QUAL_LOW,Low
+P_LOW_F_010,Retail Assistant,SEC_MANUAL_SERVICE,Manual Work & Essential Services,QUAL_LOW,Low
+P_LOW_F_011,Waiter,SEC_MANUAL_SERVICE,Manual Work & Essential Services,QUAL_LOW,Low
+P_LOW_F_012,Receptionist,SEC_MANUAL_SERVICE,Manual Work & Essential Services,QUAL_LOW,Low
+P_LOW_F_013,Call Center Agent,SEC_MANUAL_SERVICE,Manual Work & Essential Services,QUAL_LOW,Low
+P_LOW_M_001,Bricklayer,SEC_MANUAL_SERVICE,Manual Work & Essential Services,QUAL_LOW,Low
+P_LOW_M_002,Painter,SEC_MANUAL_SERVICE,Manual Work & Essential Services,QUAL_LOW,Low
+P_LOW_M_003,Tiler,SEC_MANUAL_SERVICE,Manual Work & Essential Services,QUAL_LOW,Low
+P_LOW_M_004,Plumber,SEC_MANUAL_SERVICE,Manual Work & Essential Services,QUAL_LOW,Low
+P_LOW_M_005,Electrician,SEC_MANUAL_SERVICE,Manual Work & Essential Services,QUAL_LOW,Low
+P_LOW_M_006,Heavy Equipment Operator,SEC_MANUAL_SERVICE,Manual Work & Essential Services,QUAL_LOW,Low
+P_LOW_M_007,Warehouse Handler,SEC_MANUAL_SERVICE,Manual Work & Essential Services,QUAL_LOW,Low
+P_LOW_M_008,Order Picker,SEC_MANUAL_SERVICE,Manual Work & Essential Services,QUAL_LOW,Low
+P_LOW_M_009,Dock Agent,SEC_MANUAL_SERVICE,Manual Work & Essential Services,QUAL_LOW,Low
+P_LOW_M_010,Waste Collector,SEC_MANUAL_SERVICE,Manual Work & Essential Services,QUAL_LOW,Low
+P_LOW_M_011,Security Guard,SEC_MANUAL_SERVICE,Manual Work & Essential Services,QUAL_LOW,Low
+P_LOW_M_012,Delivery Driver,SEC_MANUAL_SERVICE,Manual Work & Essential Services,QUAL_LOW,Low
+P_LOW_M_013,Agricultural Worker,SEC_MANUAL_SERVICE,Manual Work & Essential Services,QUAL_LOW,Low
