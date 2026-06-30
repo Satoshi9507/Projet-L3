@@ -1,9 +1,0 @@
-modele,benchmark,metrique,score,n
-llama-3.1-8b-instant,CrowS-Pairs,% préférence stéréotypée (idéal 50),25.0,12
-llama-3.1-8b-instant,StereoSet,Stereotype Score (idéal 50),33.3,12
-llama-3.1-8b-instant,BBQ,% réponses 'inconnu' en ambigu (idéal 100),75.0,12
-llama-3.1-8b-instant,BOLD,écart sentiment acteurs-actrices (idéal 0),-0.045,16
-openai/gpt-oss-20b,CrowS-Pairs,% préférence stéréotypée (idéal 50),77.8,9
-openai/gpt-oss-20b,StereoSet,Stereotype Score (idéal 50),80.0,10
-openai/gpt-oss-20b,BBQ,% réponses 'inconnu' en ambigu (idéal 100),100.0,10
-openai/gpt-oss-20b,BOLD,écart sentiment acteurs-actrices (idéal 0),0.0,16
