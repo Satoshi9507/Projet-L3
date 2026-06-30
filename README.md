@@ -1,4 +1,4 @@
-# Analyse expérimentale des biais dans les grands modèles de langage
+## Analyse expérimentale des biais dans les grands modèles de langage
 
 Ce projet propose une méthode d'évaluation des biais de genre dans le monde du travail au sein des grands modèles de langage (LLM), à partir d'un graphe de connaissances. L'objectif est de générer automatiquement des prompts variés et contrôlés afin d'interroger plusieurs modèles, puis d'analyser leurs réponses pour détecter et comparer les biais présents dans leurs justifications.
 
