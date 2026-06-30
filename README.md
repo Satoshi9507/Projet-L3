@@ -23,6 +23,9 @@ Pour executer visualisation_final.py:
 - Installe les dépendances nécessaires:  pip install pandas matplotlib textblob
 - Lance le script: python3 visualisation_final.py 
 
+IV) Organisation du git 
+
+Chaque membre a sa propre branche sur laquelle ils deposent leurs travail ( qu'il soit utile ou non ). Sur la branche main, il contient seulement les fichiers qu'on utilise pour le projet. 
 
 
 
