@@ -6,7 +6,7 @@ Ce projet propose une méthode d'évaluation des biais de genre dans le monde du
 
 Le projet est composé de deux parties principales :
 
-Notebook : le fichier audi.ipynb, qui effectue le traitement et la classification des réponses des modèles via une analyse NLI (zero-shot).
+Notebook : le fichier audi.ipynb, qui effectue le traitement et la classification des réponses des modèles via une analyse NLI.
 Visualisation : le fichier visualisation_final.py, qui génère les graphiques et heatmaps à partir des données traitées.
 
 ### Instructions
