@@ -18,12 +18,10 @@ Ce notebook contient des cellules à exécuter  :  'ctrl + entrer' pour executer
 
 II) Visualisation
 
-Le dossier visualisation contient le fichier visualisation_final.py.
-Comment exécuter le script : Ouvre un terminal dans le dossier Projet-L3
-Installe les dépendances nécessaires :
-pip install pandas matplotlib textblob
-Lance le script :
-python3 visualisation_final.py 
+Pour executer visualisation_final.py:
+- Ouvre un terminal dans le dossier Projet-L3
+- Installe les dépendances nécessaires:  pip install pandas matplotlib textblob
+- Lance le script: python3 visualisation_final.py 
 
 
 
